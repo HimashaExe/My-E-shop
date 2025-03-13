@@ -14,7 +14,7 @@
     <div class="w-100 m-auto">
         <div class="row">
 
-        ammo eka ammo eka really ammo eka;  
+     
 
         </div>
 
