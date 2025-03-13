@@ -1,0 +1,19 @@
+.logo{
+    
+    background-image: url(..//resources/Bookicon.png);
+    height: 100px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.divider::after,
+.divider::before{
+
+    content: "";
+    flex: 1;
+    height: 1px;
+    background-color: black;
+
+     
+}
